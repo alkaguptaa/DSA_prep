@@ -9,3 +9,6 @@ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-
 Question 2:
 https://leetcode.com/problems/search-insert-position/
 
+
+Question 3:
+https://leetcode.com/problems/search-a-2d-matrix/
