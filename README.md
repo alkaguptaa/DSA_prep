@@ -6,3 +6,6 @@ Question 1:
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
 
+Question 2:
+https://leetcode.com/problems/search-insert-position/
+
