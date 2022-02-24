@@ -33,3 +33,7 @@ https://leetcode.com/problems/largest-number/
 
 Question 8:
 https://leetcode.com/problems/flipping-an-image/
+
+
+Question 9:
+https://leetcode.com/problems/transpose-matrix/
