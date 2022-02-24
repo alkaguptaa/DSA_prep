@@ -25,3 +25,7 @@ https://leetcode.com/problems/find-peak-element/
 
 Question 6:
 https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+
+
+Question 7:
+https://leetcode.com/problems/largest-number/
