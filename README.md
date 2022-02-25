@@ -39,5 +39,5 @@ Question 9:
 https://leetcode.com/problems/transpose-matrix/
 
 
-Question 10(Amazon Question):
+Question 10 (Amazon Question):
 https://leetcode.com/problems/missing-number/
