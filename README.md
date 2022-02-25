@@ -38,9 +38,13 @@ Question 9:
 https://leetcode.com/problems/transpose-matrix/
 
 
-Question 10 (Amazon Question):
+Question 10 (Amazon):
 https://leetcode.com/problems/missing-number/
 
 
-Question 11 (Google Question):
+Question 11 (Google):
 https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+
+
+Question 12 (Amazon):
+https://leetcode.com/problems/find-the-duplicate-number/
