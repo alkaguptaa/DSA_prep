@@ -37,3 +37,7 @@ https://leetcode.com/problems/flipping-an-image/
 
 Question 9:
 https://leetcode.com/problems/transpose-matrix/
+
+
+Question 10(Amazon Question):
+https://leetcode.com/problems/missing-number/
