@@ -50,3 +50,7 @@ Question 12:
 https://leetcode.com/problems/binary-search
 
 
+Question 13 (Amazon, Microsoft):
+https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
+
