@@ -54,3 +54,7 @@ Question 13 (Amazon, Microsoft):
 https://leetcode.com/problems/find-all-duplicates-in-an-array/
 
 
+Question 14:
+https://leetcode.com/problems/set-mismatch/
+
+
