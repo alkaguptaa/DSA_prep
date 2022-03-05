@@ -62,3 +62,7 @@ Question 15 (Amazon):
 https://leetcode.com/problems/first-missing-positive/
 
 
+Question 16:
+https://leetcode.com/problems/guess-number-higher-or-lower/
+
+
