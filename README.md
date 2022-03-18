@@ -66,3 +66,7 @@ Question 16:
 https://leetcode.com/problems/guess-number-higher-or-lower/
 
 
+Question 17:
+https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
+
+
