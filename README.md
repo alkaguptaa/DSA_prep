@@ -70,3 +70,8 @@ Question 17:
 https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
 
 
+
+Question 18:
+https://leetcode.com/problems/length-of-last-word/
+
+
