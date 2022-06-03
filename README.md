@@ -90,3 +90,7 @@ https://leetcode.com/problems/contains-duplicate/
 Question 22:
 https://leetcode.com/problems/first-bad-version/
 
+
+Question 23:
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
