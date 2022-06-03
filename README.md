@@ -86,3 +86,7 @@ https://leetcode.com/problems/search-a-2d-matrix-ii/
 Question 21:
 https://leetcode.com/problems/contains-duplicate/
 
+
+Question 22:
+https://leetcode.com/problems/first-bad-version/
+
