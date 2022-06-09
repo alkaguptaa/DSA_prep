@@ -102,3 +102,7 @@ https://leetcode.com/problems/valid-perfect-square/
 Question 25:
 https://leetcode.com/problems/fibonacci-number/
 
+
+Question 26:
+https://leetcode.com/problems/power-of-two/
+
