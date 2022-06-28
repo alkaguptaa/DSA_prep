@@ -113,3 +113,7 @@ https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 Question 28:
 https://practice.geeksforgeeks.org/problems/reverse-a-string/1#
 
+
+Question 29:
+https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1/?page=1&category[]=Arrays&curated[]=2&sortBy=submissions#
+
