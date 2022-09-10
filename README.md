@@ -121,3 +121,6 @@ https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-
 Question 30:
 https://practice.geeksforgeeks.org/problems/selection-sort/1
 
+Question 31:
+https://leetcode.com/problems/reverse-integer/submissions/
+
